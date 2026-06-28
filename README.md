@@ -1,5 +1,5 @@
 # 💫 About Me:
-Driven by a passion for backend ecosystems and modern web development, I am an MCA student specialized in the Java stack. My core technical expertise spans Spring Boot, REST APIs, and frontend integration alongside fundamental knowledge of Linux and Computer Networks. I am dedicated to solving data structure problems, practicing clean code architecture, and developing efficient applications
+Driven by a passion for backend ecosystems and modern web development, Focusing in Java stack. My core technical expertise spans Spring Boot, REST APIs, and frontend integration alongside fundamental knowledge of Linux and Computer Networks. I am dedicated to solving data structure problems, practicing clean code architecture, and developing efficient applications
 
 
 ## 🌐 Socials:
